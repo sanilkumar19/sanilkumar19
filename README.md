@@ -1,4 +1,4 @@
-Hi there, I am Sharan Anil Kumar, pursuing Master's in Computer Science at UMass. I am actively interviewing for Software Engineer roles. Expected Graduation: May 2022 👋
+Hi there, I am Sharan Anil Kumar, computer science graduate student at UMass. I am actively interviewing for Software Engineer roles. Expected Graduation: May 2022 👋
 
 - 🔭 I'm working on a deep learning project that helps improve the quality of MRI imaging
 - 🌱 I am strengthening my skills on development technologies
