@@ -8,3 +8,5 @@ Hi there, I am Sharan Anil Kumar, pursuing Master's in Computer Science at UMass
 - 📫 How to reach me: sharananilkumarsa@gmail.com or https://www.linkedin.com/in/sharananilkumar/
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I like to walk while it rains ⛈
+
+https://visitor-badge.glitch.me/badge?page_id=page.id
