@@ -7,4 +7,4 @@ Hi there, I am Sharan Anil Kumar, currently pursuing Master's in Computer Scienc
 - 💬 Ask me about Quality Assurance, JAVA, Agile
 - 📫 How to reach me: sharananilkumarsa@gmail.com or https://www.linkedin.com/in/sharananilkumar/
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I am a bathroom singer 😂
+- ⚡ Fun fact: I like to walk while it rains ⛈
