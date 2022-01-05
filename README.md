@@ -7,6 +7,6 @@ Hi there, I am Sharan Anil Kumar, pursuing Master's in Computer Science at UMass
 - 💬 Ask me about Quality Assurance, JAVA, Agile
 - 📫 How to reach me: sharananilkumarsa@gmail.com or https://www.linkedin.com/in/sharananilkumar/
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I like to walk while it rains ⛈
+- ⚡ Fun fact: As a 5 year old, I believed my granny when she said "the sound from a thunder is caused by god riding a motorbike"
 
-https://visitor-badge.glitch.me/badge?page_id=page.id
+
