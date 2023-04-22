@@ -1,8 +1,8 @@
-Hi there, I am Sharan Anil Kumar, computer science graduate student at University of Massachusetts. 
+Hi there, I am Sharan Anil Kumar. I am Software Quality Assurance Engineer proficient in manual and automation testing, with expertise in test planning, design, execution, and reporting. Highly Skilled in JAVA and Python, as well as using tools like Selenium, TestNG and Jenkins for test management and execution. Adept in Agile practices and collaborative work style, with a strong focus on continuous improvement.
 
-- 🔭 I'm working on a deep learning project that helps improve the quality of MRI imaging
+- 🪛 Currently associated with Paramount+ Streaming as a Software QA engineer
 - 🌱 I'm fortifying my abilities on Software development and testing technologies
-- 🪛 I have over 3.8 years of Software Development experience in Test, was associated with Sirius computer solutions, a CDW company.
+- 🔭 As a side-project I am working on a deep learning project that helps improve the quality of MRI imaging
 - 💬 Ask me about Software Development, Quality Assurance, JAVA, Agile
 - 📫 How to reach me: sharananilkumarsa@gmail.com or https://www.linkedin.com/in/sharananilkumar/
 - 😄 Pronouns: he/him/his
